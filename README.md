@@ -2,8 +2,8 @@
 人々のつながり調査を用いたデータ分析
 
 ## 概要
-このプロジェクトは、内閣府「人々のつながりに関する基礎調査」のデータを用いて、地域ごとのつながり傾向を可視化したものです。
-
+このプロジェクトは、内閣府「令和6年度人々のつながりに関する基礎調査」のデータを用いて、地域ごとのつながり傾向を可視化することを目指す。
+(使用データ：https://www.e-stat.go.jp/stat-search/files?page=1&layout=datalist&toukei=00000004&bunya_l=99&tstat=000001227583&cycle=7&tclass1=000001227589&tclass2val=0)
 ## 使用技術
 - Python
 - pandas / matplotlib / seaborn
